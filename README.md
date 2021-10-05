@@ -8,14 +8,6 @@ Louise Nilsson (louni313)
 ## Final screencast
 https://youtu.be/-vpIrBNQMJU
 
-## Oral screencast
-Louise Nilsson, louni313: https://youtu.be/EU4ZNGOUYRE
-
-Malin Rahm, malra146: https://youtu.be/HSG7NpxGmyU
-
-## Mid course screencast
-https://youtu.be/BHfg5Io9njk 
-
 
 ## Functional Specification
 **Admin**
